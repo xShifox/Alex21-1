@@ -16,6 +16,6 @@ void swapfn(int x,int y)
    y=x-y;
    x=x-y;
    printf("\nNumbers after the swap:\n%d\n%d",x,y);
-
+............................
 
 }
